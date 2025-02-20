@@ -4,7 +4,6 @@ insert into Persona values
 ("", "Martina", "Palacios", 29457618, 42973182, "Cabrera 9273"), /*.*/
 ("", "Daniel", "Rodriguez", 25819467, 43946718, "Carlos Pellegrini 1942"),
 ("", "Juan Manuel", "Diaz", 36819427, 40819372, "Suipacha 7293"), /*.*/
-("", "Franco", "Molina", 42819276, 46396197, "Tinogasta 5386"), /*.*/
 ("", "Alejo", "Cardozo", 42819374, 46372915, "Roberto Lage 4261"), 
 ("", "Leonel", "Fuentes", 42937182, 40829367, "Jose Bonifacio 7275"),
 ("", "Kevin", "Oreste", 42617394, 39428472, "Federico Garcia Lorca 1542"),
