@@ -1,0 +1,552 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6DF3B468-1758-4793-BAC7-CC487C60C48B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>Le Pine - Sistema</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Le Pine - Sistema.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Le Pine - Sistema.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ABM\ABM.Designer.vb">
+      <DependentUpon>ABM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\ABM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Extras\AgregarExtra.Designer.vb">
+      <DependentUpon>AgregarExtra.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Extras\AgregarExtra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Camion\ModificarCamion.Designer.vb">
+      <DependentUpon>ModificarCamion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Camion\ModificarCamion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Producto\ModificarProducto.Designer.vb">
+      <DependentUpon>ModificarProducto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Producto\ModificarProducto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\MaterialMontaje\ModificarMM.Designer.vb">
+      <DependentUpon>ModificarMM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\MaterialMontaje\ModificarMM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Tecnico\ModificarTecnico.Designer.vb">
+      <DependentUpon>ModificarTecnico.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Tecnico\ModificarTecnico.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Tipo Mueble\ModificarTM.Designer.vb">
+      <DependentUpon>ModificarTM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Tipo Mueble\ModificarTM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Lista.Designer.vb">
+      <DependentUpon>Lista.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Lista.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Extras\ModificarExtra.Designer.vb">
+      <DependentUpon>ModificarExtra.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Extras\ModificarExtra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Madera\ModificarMadera.Designer.vb">
+      <DependentUpon>ModificarMadera.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Madera\ModificarMadera.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Proveedor\ModificarProveedor.Designer.vb">
+      <DependentUpon>ModificarProveedor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Proveedor\ModificarProveedor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Proveedor\AgregarProveedor.Designer.vb">
+      <DependentUpon>AgregarProveedor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Proveedor\AgregarProveedor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Extras\BorrarExtra.Designer.vb">
+      <DependentUpon>BorrarExtra.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Extras\BorrarExtra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Proveedor\BorrarProveedor.Designer.vb">
+      <DependentUpon>BorrarProveedor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Proveedor\BorrarProveedor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Persona\AgregarPersona.Designer.vb">
+      <DependentUpon>AgregarPersona.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Persona\AgregarPersona.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Persona\BorrarPersona.Designer.vb">
+      <DependentUpon>BorrarPersona.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Persona\BorrarPersona.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Cliente\AgregarCliente.Designer.vb">
+      <DependentUpon>AgregarCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Cliente\AgregarCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Madera\AgregarMadera.Designer.vb">
+      <DependentUpon>AgregarMadera.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Madera\AgregarMadera.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\MaterialMontaje\AgregarMM.Designer.vb">
+      <DependentUpon>AgregarMM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\MaterialMontaje\AgregarMM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Recepcionista\AgregarRecepcionista.Designer.vb">
+      <DependentUpon>AgregarRecepcionista.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Recepcionista\AgregarRecepcionista.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Tecnico\AgregarTecnico.Designer.vb">
+      <DependentUpon>AgregarTecnico.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Tecnico\AgregarTecnico.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Camion\AgregarCamion.Designer.vb">
+      <DependentUpon>AgregarCamion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Camion\AgregarCamion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Tipo Mueble\AgregarTM.Designer.vb">
+      <DependentUpon>AgregarTM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Tipo Mueble\AgregarTM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Madera\BorrarMadera.Designer.vb">
+      <DependentUpon>BorrarMadera.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Madera\BorrarMadera.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\MaterialMontaje\BorrarMM.Designer.vb">
+      <DependentUpon>BorrarMM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\MaterialMontaje\BorrarMM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Camion\BorrarCamion.Designer.vb">
+      <DependentUpon>BorrarCamion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Camion\BorrarCamion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Tipo Mueble\BorrarTM.Designer.vb">
+      <DependentUpon>BorrarTM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Tipo Mueble\BorrarTM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recepcion\DNICliente.Designer.vb">
+      <DependentUpon>DNICliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Recepcion\DNICliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recepcion\Documento%28Presupuesto%29.Designer.vb">
+      <DependentUpon>Documento%28Presupuesto%29.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Recepcion\Documento%28Presupuesto%29.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recepcion\ExtraDireccionDistanciaKM.Designer.vb">
+      <DependentUpon>ExtraDireccionDistanciaKM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Recepcion\ExtraDireccionDistanciaKM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recepcion\MaterialDeMontaje.Designer.vb">
+      <DependentUpon>MaterialDeMontaje.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Recepcion\MaterialDeMontaje.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recepcion\PedidoCliente.Designer.vb">
+      <DependentUpon>PedidoCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Recepcion\PedidoCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recepcion\PedidoMueble.Designer.vb">
+      <DependentUpon>PedidoMueble.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Recepcion\PedidoMueble.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recepcion\RevisarPresupuesto.Designer.vb">
+      <DependentUpon>RevisarPresupuesto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Recepcion\RevisarPresupuesto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relaciones Externas\Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Relaciones Externas\Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administracion\frmHojaDeRuta.Designer.vb">
+      <DependentUpon>frmHojaDeRuta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\frmHojaDeRuta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relaciones Externas\Grilla.Designer.vb">
+      <DependentUpon>Grilla.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Relaciones Externas\Grilla.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administracion\Menu.Designer.vb">
+      <DependentUpon>Menu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\Menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relaciones Externas\OrdenDeCompra.Designer.vb">
+      <DependentUpon>OrdenDeCompra.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Relaciones Externas\OrdenDeCompra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios\BorrarUsuario.Designer.vb">
+      <DependentUpon>BorrarUsuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios\BorrarUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios\CambiarContraseña.Designer.vb">
+      <DependentUpon>CambiarContraseña.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios\CambiarContraseña.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios\ModificarPermisos.Designer.vb">
+      <DependentUpon>ModificarPermisos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios\ModificarPermisos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\Persona\ModificarPersona.Designer.vb">
+      <DependentUpon>ModificarPersona.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\Persona\ModificarPersona.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios\Usuarios.Designer.vb">
+      <DependentUpon>Usuarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios\Usuarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios\CrearUsuario.Designer.vb">
+      <DependentUpon>CrearUsuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios\CrearUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio.Designer.vb">
+      <DependentUpon>Inicio.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sectores.Designer.vb">
+      <DependentUpon>Sectores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Sectores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ABM\ABM.resx">
+      <DependentUpon>ABM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Extras\AgregarExtra.resx">
+      <DependentUpon>AgregarExtra.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Camion\ModificarCamion.resx">
+      <DependentUpon>ModificarCamion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Producto\ModificarProducto.resx">
+      <DependentUpon>ModificarProducto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\MaterialMontaje\ModificarMM.resx">
+      <DependentUpon>ModificarMM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Tecnico\ModificarTecnico.resx">
+      <DependentUpon>ModificarTecnico.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Tipo Mueble\ModificarTM.resx">
+      <DependentUpon>ModificarTM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Lista.resx">
+      <DependentUpon>Lista.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Extras\ModificarExtra.resx">
+      <DependentUpon>ModificarExtra.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Madera\ModificarMadera.resx">
+      <DependentUpon>ModificarMadera.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Proveedor\ModificarProveedor.resx">
+      <DependentUpon>ModificarProveedor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Proveedor\AgregarProveedor.resx">
+      <DependentUpon>AgregarProveedor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Extras\BorrarExtra.resx">
+      <DependentUpon>BorrarExtra.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Proveedor\BorrarProveedor.resx">
+      <DependentUpon>BorrarProveedor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Persona\AgregarPersona.resx">
+      <DependentUpon>AgregarPersona.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Persona\BorrarPersona.resx">
+      <DependentUpon>BorrarPersona.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Cliente\AgregarCliente.resx">
+      <DependentUpon>AgregarCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Madera\AgregarMadera.resx">
+      <DependentUpon>AgregarMadera.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\MaterialMontaje\AgregarMM.resx">
+      <DependentUpon>AgregarMM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Recepcionista\AgregarRecepcionista.resx">
+      <DependentUpon>AgregarRecepcionista.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Tecnico\AgregarTecnico.resx">
+      <DependentUpon>AgregarTecnico.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Camion\AgregarCamion.resx">
+      <DependentUpon>AgregarCamion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Tipo Mueble\AgregarTM.resx">
+      <DependentUpon>AgregarTM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Madera\BorrarMadera.resx">
+      <DependentUpon>BorrarMadera.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\MaterialMontaje\BorrarMM.resx">
+      <DependentUpon>BorrarMM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Camion\BorrarCamion.resx">
+      <DependentUpon>BorrarCamion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Tipo Mueble\BorrarTM.resx">
+      <DependentUpon>BorrarTM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recepcion\DNICliente.resx">
+      <DependentUpon>DNICliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recepcion\Documento%28Presupuesto%29.resx">
+      <DependentUpon>Documento%28Presupuesto%29.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recepcion\ExtraDireccionDistanciaKM.resx">
+      <DependentUpon>ExtraDireccionDistanciaKM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recepcion\MaterialDeMontaje.resx">
+      <DependentUpon>MaterialDeMontaje.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recepcion\PedidoCliente.resx">
+      <DependentUpon>PedidoCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recepcion\PedidoMueble.resx">
+      <DependentUpon>PedidoMueble.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recepcion\RevisarPresupuesto.resx">
+      <DependentUpon>RevisarPresupuesto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relaciones Externas\Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administracion\frmHojaDeRuta.resx">
+      <DependentUpon>frmHojaDeRuta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relaciones Externas\Grilla.resx">
+      <DependentUpon>Grilla.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administracion\Menu.resx">
+      <DependentUpon>Menu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relaciones Externas\OrdenDeCompra.resx">
+      <DependentUpon>OrdenDeCompra.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios\BorrarUsuario.resx">
+      <DependentUpon>BorrarUsuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios\CambiarContraseña.resx">
+      <DependentUpon>CambiarContraseña.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios\ModificarPermisos.resx">
+      <DependentUpon>ModificarPermisos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\Persona\ModificarPersona.resx">
+      <DependentUpon>ModificarPersona.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios\Usuarios.resx">
+      <DependentUpon>Usuarios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios\CrearUsuario.resx">
+      <DependentUpon>CrearUsuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio.resx">
+      <DependentUpon>Inicio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sectores.resx">
+      <DependentUpon>Sectores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo2.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

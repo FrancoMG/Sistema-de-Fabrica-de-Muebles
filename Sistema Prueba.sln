@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Le Pine - Sistema", "Sistema Prueba\Le Pine - Sistema.vbproj", "{6DF3B468-1758-4793-BAC7-CC487C60C48B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DF3B468-1758-4793-BAC7-CC487C60C48B}.Debug|x86.ActiveCfg = Debug|x86
+		{6DF3B468-1758-4793-BAC7-CC487C60C48B}.Debug|x86.Build.0 = Debug|x86
+		{6DF3B468-1758-4793-BAC7-CC487C60C48B}.Release|x86.ActiveCfg = Release|x86
+		{6DF3B468-1758-4793-BAC7-CC487C60C48B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14A2B7F0-4EEA-488F-AE99-EE31AC0E3B4C}
+	EndGlobalSection
+EndGlobal
