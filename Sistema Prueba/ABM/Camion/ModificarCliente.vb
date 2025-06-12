@@ -1,8 +1,8 @@
-﻿Public Class frmModificarTecnico
+﻿Public Class frmModificarCliente
 
-    Dim idtecnico As Integer
+    Dim idcliente As Integer
 
-    Private Sub ModificarTenico_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+    Private Sub ModificarCliente_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
 
         cmbEstado.Items.Add("0")
         cmbEstado.Items.Add("1")
@@ -18,7 +18,7 @@
     Private Sub btnLista_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnLista.Click
 
         frmLista.Show()
-        frmLista.DataGridView1.DataSource = llenarGrilla("select t.idtecnico, t.idpersona, p.dni, t.disponible from tecnico t, persona p where p.idpersona = t.idpersona")
+        frmLista.DataGridView1.DataSource = llenarGrilla("select c.idcliente, p.dni from cliente c, persona p where p.idpersona = c.idpersona")
 
     End Sub
 
@@ -30,7 +30,7 @@
 
         Else
 
-            sql = ("select count(*) from tecnico where idtecnico = '" & txtID.Text & "'")
+            sql = ("select count(*) from cliente where idcliente = '" & txtID.Text & "'")
 
             Call ejecutar(sql)
 
@@ -38,11 +38,11 @@
 
             If rs(0) = 0 Then
 
-                MsgBox("No existe ningun tecnico con el ID ingresado")
+                MsgBox("No existe ningun cliente con el ID ingresado")
 
             Else
 
-                sql = ("select * from tecnico where idtecnico = '" & txtID.Text & "'")
+                sql = ("select * from cliente where idcliente = '" & txtID.Text & "'")
 
                 Call ejecutar(sql)
 
@@ -50,7 +50,7 @@
 
                 gbxDatos.Enabled = True
 
-                idtecnico = CInt(txtID.Text)
+                idcliente = CInt(txtID.Text)
 
             End If
 
@@ -70,13 +70,13 @@
 
             Else
 
-                sql = ("update tecnico set disponible = '" & cmbEstado.Text & "' where idtecnico = " & idtecnico & "")
+                sql = ("update cliente set estado = '" & cmbEstado.Text & "' where idcliente = " & idcliente & "")
 
                 Call ejecutar(sql)
 
                 MsgBox("Datos modificados con exito")
 
-                frmLista.DataGridView1.DataSource = llenarGrilla("select t.idtecnico, t.idpersona, p.dni, t.disponible from tecnico t, persona p where p.idpersona = t.idpersona")
+                frmLista.DataGridView1.DataSource = llenarGrilla("select c.idcliente, p.dni from cliente c, persona p where p.idpersona = c.idpersona")
 
                 txtID.Text = ""
 
@@ -87,13 +87,4 @@
         End If
 
     End Sub
-
-    Private Sub btnSalir_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnSalir.Click
-
-        Me.Close()
-        frmLista.Close()
-        frmABM.Show()
-
-    End Sub
-
 End Class

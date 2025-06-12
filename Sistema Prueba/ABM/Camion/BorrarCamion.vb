@@ -88,4 +88,7 @@
         onlynum(e)
     End Sub
 
+    Private Sub frmBorrarCamion_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+    End Sub
 End Class

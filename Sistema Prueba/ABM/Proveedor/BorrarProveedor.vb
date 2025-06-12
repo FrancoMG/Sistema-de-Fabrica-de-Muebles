@@ -82,4 +82,8 @@
     Private Sub txtID_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles txtID.KeyPress
         onlynum(e)
     End Sub
+
+    Private Sub frmBorrarProveedor_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+    End Sub
 End Class

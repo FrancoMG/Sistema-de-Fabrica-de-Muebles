@@ -58,4 +58,8 @@
     Private Sub txtTelefono_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles txtTelefono.KeyPress
         onlynum(e)
     End Sub
+
+    Private Sub frmAgregarPersona_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+    End Sub
 End Class
