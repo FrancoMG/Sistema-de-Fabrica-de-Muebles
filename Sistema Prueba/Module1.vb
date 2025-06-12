@@ -1,10 +1,11 @@
-﻿Imports System.Data.Odbc
+﻿'Imports System.Data.Odbc
+Imports System.Data.SQLite
 
 Module Module1
 
-    Public cnn As OdbcConnection
-    Public cmd As OdbcCommand
-    Public rs, rs2, rs3, rs4 As OdbcDataReader
+    Public cnn As SQLiteConnection
+    Public cmd As SQLiteCommand
+    Public rs, rs2, rs3, rs4 As SQLiteDataReader
     Public boleano As Integer
     Public tipousuario As String
     Public sql As String
@@ -26,13 +27,13 @@ Module Module1
 
         Try
 
-            cnn = New OdbcConnection("DSN=Le_Pine")
+            cnn = New SQLiteConnection("Data Source=BD_LE_PINE.db;Version=3;")
 
             cnn.Open()
 
         Catch ex As Exception
 
-            MsgBox("No hay coneccion", MsgBoxStyle.Exclamation, "Error")
+            MsgBox("No hay conexion", MsgBoxStyle.Exclamation, "Error")
 
         End Try
 
@@ -42,11 +43,11 @@ Module Module1
     Public Function llenarGrilla(ByVal sql As String) As DataTable
 
         Dim ds As DataSet
-        Dim adp As OdbcDataAdapter
+        Dim adp As SQLiteDataAdapter
 
         ds = New DataSet("Tabla")
         ds.Tables.Add("Tabla")
-        adp = New OdbcDataAdapter(sql, cnn)
+        adp = New SQLiteDataAdapter(sql, cnn)
         adp.Fill(ds.Tables("Tabla"))
 
         Return ds.Tables("Tabla")
@@ -73,7 +74,7 @@ Module Module1
 
     Public Sub Ejecutar(ByVal consulta As String)
 
-        cmd = New OdbcCommand(consulta, cnn)
+        cmd = New SQLiteCommand(consulta, cnn)
         cmd.CommandType = CommandType.Text
 
         If switch = 1 Then

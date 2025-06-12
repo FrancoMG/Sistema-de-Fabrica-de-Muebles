@@ -108,7 +108,7 @@
 
         Else
 
-            End
+            Application.Exit()
 
         End If
 
