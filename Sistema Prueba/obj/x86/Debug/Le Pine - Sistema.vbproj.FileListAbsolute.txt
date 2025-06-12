@@ -1,0 +1,965 @@
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\bin\Debug\Le Pine - Sistema.exe
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\bin\Debug\Le Pine - Sistema.pdb
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\bin\Debug\Le Pine - Sistema.xml
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\ResolveAssemblyReference.cache
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarUsuario.resources
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCompraProv.resources
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmControlStock.resources
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCambiarContraseña.resources
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarPermisos.resources
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCrearUsuario.resources
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmPedido.resources
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmInicio.resources
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmSectores.resources
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.Resources.resources
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\GenerateResource.read.1.tlog
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\GenerateResource.write.1.tlog
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.exe
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.xml
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.pdb
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.exe
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.xml
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.pdb
+F:\LE PINE\Sistema Prueba\Sistema Prueba\bin\Debug\Le Pine - Sistema.exe
+F:\LE PINE\Sistema Prueba\Sistema Prueba\bin\Debug\Le Pine - Sistema.pdb
+F:\LE PINE\Sistema Prueba\Sistema Prueba\bin\Debug\Le Pine - Sistema.xml
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarUsuario.resources
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCambiarContraseña.resources
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarPermisos.resources
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCrearUsuario.resources
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmInicio.resources
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmSectores.resources
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.vbproj.GenerateResource.Cache
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.exe
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.xml
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.pdb
+D:\LE PINE\Sistema Prueba\Sistema Prueba\bin\Debug\Le Pine - Sistema.exe
+D:\LE PINE\Sistema Prueba\Sistema Prueba\bin\Debug\Le Pine - Sistema.pdb
+D:\LE PINE\Sistema Prueba\Sistema Prueba\bin\Debug\Le Pine - Sistema.xml
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmABM.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarUsuario.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCambiarContraseña.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarPermisos.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCrearUsuario.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmInicio.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmSectores.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarPersona.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarPersona.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarCliente.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarMadera.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarMM.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarRecepcionista.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarTecnico.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarTM.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarCliente.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarMadera.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarMM.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarRecepcionista.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarTecnico.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarTM.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarCamion.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarCamion.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarExtra.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarExtra.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarProveedor.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarProveedor.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarProducto.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarProducto.resources
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmABM.resources
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarExtra.resources
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarProducto.resources
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarProveedor.resources
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarExtra.resources
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarProducto.resources
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarProveedor.resources
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarPersona.resources
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarPersona.resources
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarCliente.resources
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarMadera.resources
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarMM.resources
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarRecepcionista.resources
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarTecnico.resources
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarCamion.resources
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarTM.resources
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarCliente.resources
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarMadera.resources
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarMM.resources
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarRecepcionista.resources
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarTecnico.resources
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarCamion.resources
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarTM.resources
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmLista.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmLista.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarPersona.resources
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarPersona.resources
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarMadera.resources
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarProveedor.resources
+F:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarExtra.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarTM.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarExtra.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarMadera.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarProveedor.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarProducto.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarCamion.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarMM.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarCliente.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.exe
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.xml
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.pdb
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\bin\Debug\Le Pine - Sistema.exe
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\bin\Debug\Le Pine - Sistema.pdb
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\bin\Debug\Le Pine - Sistema.xml
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmABM.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarCliente.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarExtra.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarCamion.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarProducto.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarMM.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarTM.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmLista.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarExtra.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarMadera.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarProveedor.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarProducto.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarProveedor.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarExtra.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarProducto.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarProveedor.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarPersona.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarPersona.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarCliente.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarMadera.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarMM.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarRecepcionista.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarTecnico.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarCamion.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarTM.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarCliente.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarMadera.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarMM.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarRecepcionista.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarTecnico.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarCamion.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarTM.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarUsuario.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCambiarContraseña.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarPermisos.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarPersona.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCrearUsuario.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmInicio.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmSectores.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.vbproj.GenerateResource.Cache
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarTecnico.resources
+C:\Users\Kevin\Desktop\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarRecepcionista.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarRecepcionista.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarTecnico.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.exe
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.xml
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.pdb
+G:\LE PINE\Sistema Prueba\Sistema Prueba\bin\Debug\Le Pine - Sistema.exe
+G:\LE PINE\Sistema Prueba\Sistema Prueba\bin\Debug\Le Pine - Sistema.pdb
+G:\LE PINE\Sistema Prueba\Sistema Prueba\bin\Debug\Le Pine - Sistema.xml
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmABM.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarCliente.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarExtra.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarCamion.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarProducto.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarMM.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarRecepcionista.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarTecnico.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarTM.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmLista.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarExtra.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarMadera.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarProveedor.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarProducto.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarProveedor.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarExtra.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarProducto.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarProveedor.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarPersona.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarPersona.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarCliente.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarMadera.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarMM.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarRecepcionista.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarTecnico.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarCamion.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarTM.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarCliente.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarMadera.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarMM.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarRecepcionista.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarTecnico.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarCamion.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarTM.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarUsuario.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCambiarContraseña.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarPermisos.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarPersona.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCrearUsuario.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmInicio.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmSectores.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.exe
+H:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.xml
+H:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.pdb
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\GenerateResource.read.54.tlog
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmDNICliente.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmExtraDireccionDistanciaKM.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmPedidoCliente.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmPedidoMueble.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.RelacionesExternas.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmGrilla.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAdministracion.resources
+D:\LE PINE\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.OrdenDeCompra.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.exe
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.xml
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.pdb
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmABM.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarExtra.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarCamion.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarProducto.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarMM.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarTecnico.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarTM.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmLista.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarExtra.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarMadera.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarProveedor.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarProducto.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarProveedor.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarExtra.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarProducto.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarProveedor.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarPersona.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarPersona.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarCliente.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarMadera.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarMM.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarRecepcionista.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarTecnico.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarCamion.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarTM.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarMadera.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarMM.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarCamion.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarTM.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarUsuario.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCambiarContraseña.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmDNICliente.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmExtraDireccionDistanciaKM.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.RelacionesExternas.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmGrilla.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAdministracion.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarPermisos.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarPersona.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.OrdenDeCompra.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmPedidoCliente.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmPedidoMueble.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCrearUsuario.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmInicio.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmSectores.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\GenerateResource.read.54.tlog
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\bin\Debug\Le Pine - Sistema.exe
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\bin\Debug\Le Pine - Sistema.pdb
+D:\LE PINE\Sistema Prueba - copia\Sistema Prueba\bin\Debug\Le Pine - Sistema.xml
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.exe
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.xml
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.pdb
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\bin\Debug\Le Pine - Sistema.exe
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\bin\Debug\Le Pine - Sistema.pdb
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\bin\Debug\Le Pine - Sistema.xml
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmABM.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarExtra.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarCamion.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarProducto.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarMM.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarTecnico.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarTM.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmLista.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarExtra.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarMadera.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarProveedor.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarProducto.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarProveedor.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarExtra.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarProveedor.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarPersona.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarPersona.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarCliente.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarMadera.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarMM.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarRecepcionista.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarTecnico.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarCamion.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarTM.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarMadera.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarMM.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarCamion.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarTM.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarUsuario.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCambiarContraseña.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmDNICliente.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmExtraDireccionDistanciaKM.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.RelacionesExternas.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmGrilla.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAdministracion.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarPermisos.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarPersona.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.OrdenDeCompra.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmPedidoCliente.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmPedidoMueble.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCrearUsuario.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmInicio.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmSectores.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.vbproj.GenerateResource.Cache
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.exe
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.xml
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.pdb
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmABM.resources
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarExtra.resources
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarCamion.resources
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarProducto.resources
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarMM.resources
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarTecnico.resources
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarTM.resources
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmLista.resources
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarExtra.resources
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarMadera.resources
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarProveedor.resources
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarProveedor.resources
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarExtra.resources
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarProveedor.resources
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarPersona.resources
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarPersona.resources
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarCliente.resources
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarMadera.resources
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarMM.resources
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarRecepcionista.resources
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarTecnico.resources
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarCamion.resources
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarTM.resources
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarMadera.resources
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarMM.resources
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarCamion.resources
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarTM.resources
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarUsuario.resources
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCambiarContraseña.resources
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarPermisos.resources
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarPersona.resources
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCrearUsuario.resources
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmInicio.resources
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmSectores.resources
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\GenerateResource.read.54.tlog
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\bin\Debug\Le Pine - Sistema.exe
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\bin\Debug\Le Pine - Sistema.pdb
+G:\LE PINE\Sistema Prueba - copia\Sistema Prueba\bin\Debug\Le Pine - Sistema.xml
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.exe
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.xml
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.pdb
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\bin\Debug\Le Pine - Sistema.exe
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\bin\Debug\Le Pine - Sistema.pdb
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\bin\Debug\Le Pine - Sistema.xml
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmABM.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarExtra.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarCamion.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarProducto.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarMM.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarTecnico.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarTM.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmLista.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarExtra.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarMadera.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarProveedor.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarProveedor.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarExtra.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarProveedor.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarPersona.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarPersona.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarCliente.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarMadera.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarMM.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarRecepcionista.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarTecnico.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarCamion.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarTM.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarMadera.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarMM.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarCamion.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarTM.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmDNICliente.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmDocumento_Presupuesto_.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmExtraDireccionDistanciaKM.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmMaterialDeMontaje.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmPedidoCliente.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmPedidoMueble.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmRevisarPresupuesto.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.RelacionesExternas.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmHojaDeRuta.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmGrilla.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAdministracion.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.OrdenDeCompra.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarUsuario.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCambiarContraseña.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarPermisos.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarPersona.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCrearUsuario.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmInicio.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmSectores.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.Resources.resources
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\GenerateResource.read.54.tlog
+H:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.xml
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.pdb
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\bin\Debug\Le Pine - Sistema.exe
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\bin\Debug\Le Pine - Sistema.pdb
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\bin\Debug\Le Pine - Sistema.xml
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmABM.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarExtra.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarCamion.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarProducto.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarMM.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarTecnico.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarTM.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmLista.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarExtra.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarMadera.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarProveedor.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarProveedor.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarExtra.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarProveedor.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarPersona.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarPersona.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarCliente.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarMadera.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarMM.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarRecepcionista.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarTecnico.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarCamion.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarTM.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarMadera.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarMM.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarCamion.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarTM.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmDNICliente.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmDocumento_Presupuesto_.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmExtraDireccionDistanciaKM.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmMaterialDeMontaje.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmPedidoCliente.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmPedidoMueble.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmRevisarPresupuesto.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.RelacionesExternas.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmHojaDeRuta.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmGrilla.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAdministracion.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.OrdenDeCompra.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarUsuario.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCambiarContraseña.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarPermisos.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarPersona.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCrearUsuario.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmInicio.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmSectores.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.vbproj.GenerateResource.Cache
+E:\LE PINE\Sistema Prueba - copia\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.exe
+F:\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.exe
+F:\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.xml
+F:\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.pdb
+C:\Users\franc\Downloads\Sistema Final-20181130T182033Z-001\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.exe
+C:\Users\franc\Downloads\Sistema Final-20181130T182033Z-001\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.xml
+C:\Users\franc\Downloads\Sistema Final-20181130T182033Z-001\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.pdb
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\bin\Debug\Le Pine - Sistema.exe
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\bin\Debug\Le Pine - Sistema.pdb
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\bin\Debug\Le Pine - Sistema.xml
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.vbprojAssemblyReference.cache
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmABM.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarExtra.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarCamion.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarProducto.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarMM.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarTecnico.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarTM.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmLista.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarExtra.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarMadera.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarProveedor.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarProveedor.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarExtra.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarProveedor.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarPersona.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarPersona.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarCliente.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarMadera.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarMM.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarRecepcionista.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarTecnico.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarCamion.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarTM.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarMadera.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarMM.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarCamion.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarTM.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmDNICliente.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmDocumento_Presupuesto_.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmExtraDireccionDistanciaKM.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmMaterialDeMontaje.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmPedidoCliente.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmPedidoMueble.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmRevisarPresupuesto.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.RelacionesExternas.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmHojaDeRuta.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmGrilla.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAdministracion.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.OrdenDeCompra.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarUsuario.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCambiarContraseña.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarPermisos.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarPersona.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCrearUsuario.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmInicio.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmSectores.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.vbproj.GenerateResource.cache
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.vbproj.CoreCompileInputs.cache
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.exe
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.xml
+E:\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.pdb
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\bin\Debug\Le Pine - Sistema.exe
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\bin\Debug\Le Pine - Sistema.pdb
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\bin\Debug\Le Pine - Sistema.xml
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.vbprojAssemblyReference.cache
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmABM.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarExtra.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarCamion.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarProducto.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarMM.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarTecnico.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarTM.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmLista.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarExtra.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarMadera.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarProveedor.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarProveedor.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarExtra.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarProveedor.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarPersona.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarPersona.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarCliente.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarMadera.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarMM.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarRecepcionista.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarTecnico.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarCamion.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarTM.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarMadera.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarMM.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarCamion.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarTM.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmDNICliente.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmDocumento_Presupuesto_.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmExtraDireccionDistanciaKM.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmMaterialDeMontaje.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmPedidoCliente.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmPedidoMueble.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmRevisarPresupuesto.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.RelacionesExternas.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmHojaDeRuta.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmGrilla.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAdministracion.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.OrdenDeCompra.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarUsuario.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCambiarContraseña.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarPermisos.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarPersona.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCrearUsuario.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmInicio.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmSectores.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.vbproj.GenerateResource.cache
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.vbproj.CoreCompileInputs.cache
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.exe
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.xml
+F:\Pendrive\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.pdb
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\bin\Debug\Le Pine - Sistema.exe
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\bin\Debug\Le Pine - Sistema.pdb
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\bin\Debug\Le Pine - Sistema.xml
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmABM.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarExtra.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarCamion.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarProducto.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarMM.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarTecnico.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarTM.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmLista.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarExtra.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarMadera.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarProveedor.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarProveedor.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarExtra.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarProveedor.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarPersona.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarPersona.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarCliente.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarMadera.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarMM.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarRecepcionista.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarTecnico.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarCamion.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarTM.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarMadera.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarMM.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarCamion.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarTM.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmDNICliente.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmDocumento_Presupuesto_.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmExtraDireccionDistanciaKM.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmMaterialDeMontaje.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmPedidoCliente.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmPedidoMueble.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmRevisarPresupuesto.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.RelacionesExternas.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmHojaDeRuta.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmGrilla.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAdministracion.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.OrdenDeCompra.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarUsuario.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCambiarContraseña.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarPermisos.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarPersona.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCrearUsuario.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmInicio.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmSectores.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.vbproj.GenerateResource.cache
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.exe
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.xml
+G:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.pdb
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.exe
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.xml
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.pdb
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.exe
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.xml
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.pdb
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\bin\Debug\Le Pine - Sistema.exe
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\bin\Debug\Le Pine - Sistema.pdb
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\bin\Debug\Le Pine - Sistema.xml
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmABM.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarExtra.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarCamion.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarProducto.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarMM.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarTecnico.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarTM.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmLista.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarExtra.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarMadera.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarProveedor.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarProveedor.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarExtra.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarProveedor.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarPersona.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarPersona.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarCliente.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarMadera.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarMM.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarRecepcionista.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarTecnico.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarCamion.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarTM.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarMadera.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarMM.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarCamion.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarTM.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmDNICliente.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmDocumento_Presupuesto_.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmExtraDireccionDistanciaKM.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmMaterialDeMontaje.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmPedidoCliente.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmPedidoMueble.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmRevisarPresupuesto.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.RelacionesExternas.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmHojaDeRuta.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmGrilla.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAdministracion.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.OrdenDeCompra.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarUsuario.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCambiarContraseña.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarPermisos.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarPersona.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCrearUsuario.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmInicio.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmSectores.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.vbproj.GenerateResource.Cache
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\bin\Debug\Le Pine - Sistema.exe
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\bin\Debug\Le Pine - Sistema.pdb
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\bin\Debug\Le Pine - Sistema.xml
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmABM.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarExtra.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarCamion.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarProducto.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarMM.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarTecnico.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarTM.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmLista.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarExtra.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarMadera.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarProveedor.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarProveedor.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarExtra.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarProveedor.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarPersona.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarPersona.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarCliente.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarMadera.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarMM.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarRecepcionista.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarTecnico.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarCamion.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarTM.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarMadera.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarMM.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarCamion.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarTM.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmDNICliente.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmDocumento_Presupuesto_.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmExtraDireccionDistanciaKM.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmMaterialDeMontaje.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmPedidoCliente.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmPedidoMueble.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmRevisarPresupuesto.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.RelacionesExternas.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmHojaDeRuta.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmGrilla.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAdministracion.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.OrdenDeCompra.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarUsuario.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCambiarContraseña.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarPermisos.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarPersona.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCrearUsuario.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmInicio.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmSectores.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.vbproj.GenerateResource.Cache
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.exe
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.xml
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.pdb
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\bin\Debug\Le Pine - Sistema.exe
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\bin\Debug\Le Pine - Sistema.pdb
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\bin\Debug\Le Pine - Sistema.xml
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmABM.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarExtra.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarCamion.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarProducto.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarMM.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarTecnico.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarTM.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmLista.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarExtra.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarMadera.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarProveedor.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarProveedor.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarExtra.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarProveedor.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarPersona.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarPersona.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarCliente.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarMadera.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarMM.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarRecepcionista.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarTecnico.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarCamion.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarTM.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarMadera.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarMM.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarCamion.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarTM.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmDNICliente.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmDocumento_Presupuesto_.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmExtraDireccionDistanciaKM.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmMaterialDeMontaje.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmPedidoCliente.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmPedidoMueble.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmRevisarPresupuesto.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.RelacionesExternas.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmHojaDeRuta.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmGrilla.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAdministracion.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.OrdenDeCompra.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarUsuario.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCambiarContraseña.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarPermisos.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarPersona.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCrearUsuario.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmInicio.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmSectores.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.Resources.resources
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\GenerateResource.read.54.tlog
+H:\Pendrive\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\bin\Debug\Le Pine - Sistema.exe.config
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\bin\Debug\Le Pine - Sistema.exe
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\bin\Debug\Le Pine - Sistema.pdb
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\bin\Debug\Le Pine - Sistema.xml
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.vbproj.AssemblyReference.cache
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.vbproj.SuggestedBindingRedirects.cache
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmABM.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarExtra.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarCamion.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarProducto.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarMM.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarTecnico.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarTM.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmLista.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarExtra.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarMadera.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarProveedor.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarProveedor.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarExtra.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarProveedor.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarPersona.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarPersona.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarCliente.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarMadera.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarMM.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarRecepcionista.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarTecnico.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarCamion.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarTM.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarMadera.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarMM.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarCamion.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarTM.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmDNICliente.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmDocumento_Presupuesto_.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmExtraDireccionDistanciaKM.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmMaterialDeMontaje.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmPedidoCliente.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmPedidoMueble.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmRevisarPresupuesto.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.RelacionesExternas.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmHojaDeRuta.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmGrilla.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAdministracion.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.OrdenDeCompra.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarUsuario.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCambiarContraseña.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarPermisos.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarPersona.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCrearUsuario.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmInicio.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmSectores.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.vbproj.GenerateResource.cache
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.vbproj.CoreCompileInputs.cache
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.exe
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.xml
+E:\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.pdb
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\bin\Debug\Le Pine - Sistema.exe.config
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\bin\Debug\Le Pine - Sistema.exe
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\bin\Debug\Le Pine - Sistema.pdb
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\bin\Debug\Le Pine - Sistema.xml
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\bin\Debug\EntityFramework.dll
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\bin\Debug\EntityFramework.SqlServer.dll
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\bin\Debug\System.Data.SQLite.dll
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\bin\Debug\EntityFramework.xml
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\bin\Debug\EntityFramework.SqlServer.xml
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\bin\Debug\System.Data.SQLite.xml
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.vbproj.AssemblyReference.cache
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmABM.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarExtra.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarCamion.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarProducto.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarMM.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarTecnico.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarTM.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmLista.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarExtra.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarMadera.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarProveedor.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarProveedor.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarExtra.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarProveedor.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarPersona.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarPersona.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarCliente.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarMadera.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarMM.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarRecepcionista.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarTecnico.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarCamion.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAgregarTM.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarMadera.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarMM.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarCamion.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarTM.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmDNICliente.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmDocumento_Presupuesto_.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmExtraDireccionDistanciaKM.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmMaterialDeMontaje.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmPedidoCliente.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmPedidoMueble.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmRevisarPresupuesto.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.RelacionesExternas.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmHojaDeRuta.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmGrilla.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmAdministracion.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.OrdenDeCompra.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarUsuario.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCambiarContraseña.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarPermisos.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarPersona.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCrearUsuario.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmInicio.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmSectores.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.vbproj.GenerateResource.cache
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.vbproj.CoreCompileInputs.cache
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine .9C26211D.Up2Date
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.exe
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.xml
+D:\Otros\Pendrive\ET35\2018\Trabajo Practico Paradigmas y Analisis 2018\Sistema Final\Sistema Final\Sistema Prueba\obj\x86\Debug\Le Pine - Sistema.pdb

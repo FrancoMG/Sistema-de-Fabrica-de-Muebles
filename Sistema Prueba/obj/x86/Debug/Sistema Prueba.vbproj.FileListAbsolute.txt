@@ -1,0 +1,39 @@
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\segundo trimeste\Sistema\Sistema Prueba\Sistema Prueba\bin\Debug\Sistema Prueba.exe
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\segundo trimeste\Sistema\Sistema Prueba\Sistema Prueba\bin\Debug\Sistema Prueba.pdb
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\segundo trimeste\Sistema\Sistema Prueba\Sistema Prueba\bin\Debug\Sistema Prueba.xml
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\segundo trimeste\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\ResolveAssemblyReference.cache
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\segundo trimeste\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.Resources.resources
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\segundo trimeste\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\GenerateResource.read.1.tlog
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\segundo trimeste\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\GenerateResource.write.1.tlog
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\segundo trimeste\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\Sistema Prueba.exe
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\segundo trimeste\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\Sistema Prueba.xml
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\segundo trimeste\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\Sistema Prueba.pdb
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\segundo trimeste\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmSectores.resources
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\segundo trimeste\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCompraProv.resources
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\segundo trimeste\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmControlStock.resources
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\segundo trimeste\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmPedido.resources
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\segundo trimeste\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\segundo trimeste\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmInicio.resources
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\segundo trimeste\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarUsuario.resources
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\segundo trimeste\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCambiarContraseña.resources
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\segundo trimeste\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCrearUsuario.resources
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\Sistema Prueba.exe
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\Sistema Prueba.xml
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\Sistema Prueba.pdb
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\bin\Debug\Sistema Prueba.exe
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\bin\Debug\Sistema Prueba.pdb
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\bin\Debug\Sistema Prueba.xml
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\ResolveAssemblyReference.cache
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmBorrarUsuario.resources
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCompraProv.resources
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmControlStock.resources
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCambiarContraseña.resources
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmCrearUsuario.resources
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmPedido.resources
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmInicio.resources
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmSectores.resources
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.Resources.resources
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\GenerateResource.read.1.tlog
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\GenerateResource.write.1.tlog
+\\SERVER35IBM\2018 5to 2da$\oresteak\Desktop\Paradigmas\tercer trimestre\Sistema\Sistema Prueba\Sistema Prueba\obj\x86\Debug\WindowsApplication1.frmModificarPermisos.resources
