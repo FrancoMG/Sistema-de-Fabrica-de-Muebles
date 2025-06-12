@@ -65,4 +65,8 @@
         frmSectores.Show()
 
     End Sub
+
+    Private Sub dgvListaPrecios_CellContentClick(ByVal sender As System.Object, ByVal e As System.Windows.Forms.DataGridViewCellEventArgs) Handles dgvListaPrecios.CellContentClick
+
+    End Sub
 End Class

@@ -185,4 +185,7 @@
 
     End Sub
 
+    Private Sub cmbTipoUsuario_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmbTipoUsuario.SelectedIndexChanged
+
+    End Sub
 End Class
